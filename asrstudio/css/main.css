@@ -1,0 +1,113 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Saira+Extra+Condensed:wght@400;600&display=swap" rel="stylesheet">
+
+.p1 {
+	font-family: 'Saira Extra Condensed', sans-serif;
+	font-weight: 600;
+}
+
+.f2 {
+	font-family: 'Saira Extra Condensed', sans-serif;
+	font-weight: 400;
+}
+
+.header {
+	overflow: hidden;
+	background-color: #FFFFFF;
+	padding: 20px 10px;
+	height: 50px;
+}
+
+.logo {
+	height: 50px;
+}
+
+.header2 {
+	overflow: hidden;
+	background-color: #2F75AA;
+	padding: 20px 10px;
+	height: 50px;
+}
+
+.logo2 {
+	height: 50px;
+}
+
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+
+.center2 {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+	text-align: center;
+}
+
+.footer {
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	background-color: #2F75AA;
+	color: white;
+	text-align: center;
+}
+
+a:link, a:visited {
+  	background-color: #2F75AA;
+  	color: white;
+  	padding: 14px 25px;
+  	text-align: center; 
+  	text-decoration: none;
+  	display: inline-block;
+  	
+}
+
+.button {
+	font-size: 50px;
+}
+
+input[type=text], input[type=password] {
+  	width: 100%;
+  	padding: 15px;
+  	margin: 5px 0 22px 0;
+  	border: none;
+  	background: #D8D8D8;
+}
+
+.bkgd {
+	background-color: #2F75AA;
+} 
+
+.btn {
+	background-color: white;
+  	color: black;
+  	border: 2px solid #D8D8D8;
+  	border-radius: 2px;
+  	padding: 5px 20px;
+  	font-size: 12px;
+  	width: 5%;
+  	text-align: center;
+}
+
+.btn2 {
+	background-color: white;
+  	color: black;
+  	border: 2px solid #D8D8D8;
+  	border-radius: 2px;
+  	padding: 5px 20px;
+  	font-size: 12px;
+  	width: 5%;
+  	display: inline-block;
+  	text-align: center;
+}
+
+.desc {
+	height: 100px;
+}
