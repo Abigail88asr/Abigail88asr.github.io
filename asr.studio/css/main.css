@@ -1,0 +1,75 @@
+.height1 {
+    height: 50px;
+  }
+
+.blue {
+    background-color: #2F75AA;
+  }
+
+.height2 {
+    height: 150px;
+  }
+
+.img {
+    width: 120px;
+  }
+
+.img2 {
+  width: 280px;
+}
+
+.row2 {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+
+.column {
+  margin-top: 8px;
+}
+
+.marg2 {
+  margin-bottom: 8px;
+}
+
+.img3 {
+  width: 190px;
+}
+
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  stroke-width: 0;
+  stroke: currentColor;
+  fill: currentColor;
+}
+
+.icon-cog {
+  font-size: 25px;
+  color: white;
+}
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Saira+Extra+Condensed:wght@400;600&display=swap" rel="stylesheet">
+
+.font1 {
+  font-family: 'Saira Extra Condensed', sans-serif;
+  font-weight: 600;
+}
+
+.font2 {
+  font-family: 'Saira Extra Condensed', sans-serif;
+  font-weight: 400;
+}
+
+.wt {
+  color: white;
+}
+
+
+
+
+
+
